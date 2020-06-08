@@ -1,0 +1,8 @@
+gene	star allele
+TPMT	*1;*2;*3A;*3B;*3C
+NUDT15	*1;*2;*3
+DPYD	*1;c.1905+1G>A (*2);c.1129-5923C>G;c.1679T>G (*13);c.2846A>T
+UGT1A1	*1;*6;*27;*28;*36;*37
+SLCO1B1	*1;*5;*15;*17
+CYP2C19	*1;*2;*3;*4;*6;*8;*9;*10;*16;*17;*22;*24;*35
+G6PD	B;A-202A_376G;A-968C_376G;Asahi;Aures;Canton, Taiwan-Hakka, Gifu-like, Agrigento-like;Chinese-5;Ilesha;Kaiping, Anant, Dhon, Sapporo-like, Wosera;Kambos;Kalyan-Kerala, Jamnaga, Rohini;Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham;Quing Yuan, Chinese-4;Seattle, Lodi, Modena, Ferrara II, Athens-like;Sibari;Ube Konan;Union, Maewo, Chinese-2, Kalo;Viangchan, Jammu

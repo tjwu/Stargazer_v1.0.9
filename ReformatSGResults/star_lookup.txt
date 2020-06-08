@@ -1,0 +1,198 @@
+gene	name	other_names
+g6pd	*1	B
+g6pd	*2	A
+g6pd	*3	A-202A_376G
+g6pd	*4	A-680T_376G
+g6pd	*5	A-968C_376G
+g6pd	*6	Santa Maria
+g6pd	*7	Sierra Leone
+g6pd	*8	"Canton, Taiwan-Hakka, Gifu-like, Agrigento-like"
+g6pd	*9	Asahi
+g6pd	*10	"Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham"
+g6pd	*11	202G>A_376A>G_1264C>G
+g6pd	*12	Mt Sinai
+g6pd	*13	Acrokorinthos
+g6pd	*14	Ananindeua
+g6pd	*15	Alhambra
+g6pd	*16	Andalus
+g6pd	*17	"Beverly Hills, Genova, Iwate, Niigata, Yamaguchi"
+g6pd	*18	Cassano
+g6pd	*19	Chatham
+g6pd	*20	"Taipei, Chinese-3"
+g6pd	*21	"Quing Yuan, Chinese-4"
+g6pd	*22	Coimbra Shunde
+g6pd	*23	Cosenza
+g6pd	*24	Fushan
+g6pd	*25	Guadalajara
+g6pd	*26	Ilesha
+g6pd	*27	"Iowa, Walter Reed, Springfield"
+g6pd	*28	"Kaiping, Anant, Dhon, Sapporo-like, Wosera"
+g6pd	*29	"Kalyan-Kerala, Jamnaga, Rohini"
+g6pd	*30	Lagosanto
+g6pd	*31	Mahidol
+g6pd	*32	Cincinnati
+g6pd	*33	Metaponto
+g6pd	*34	"Minnesota, Marion, Gastonia, LeJeune"
+g6pd	*35	Nara
+g6pd	*36	"Nashville, Anaheim, Portici"
+g6pd	*37	Olomouc
+g6pd	*38	Pawnee
+g6pd	*39	Plymouth
+g6pd	*40	Praha
+g6pd	*41	Puerto Limon
+g6pd	*42	Santiago
+g6pd	*43	"Santiago de Cuba, Morioka"
+g6pd	*44	Sao Borja
+g6pd	*45	Shinshu
+g6pd	*46	Sibari
+g6pd	*47	"Telti, Kobe"
+g6pd	*48	Tomah
+g6pd	*49	Ube Konan
+g6pd	*50	"Union, Maewo, Chinese-2, Kalo"
+g6pd	*51	"Viangchan, Jammu"
+g6pd	*52	West Virginia
+g6pd	*53	Honiara
+g6pd	*54	Sunderland
+g6pd	*55	Kozukata
+g6pd	*56	Amsterdam
+g6pd	*57	Swansea
+g6pd	*58	Urayasu
+g6pd	*59	Vancouver
+g6pd	*60	Volendam
+g6pd	*61	Chikugo
+g6pd	*62	Tsukui
+g6pd	*63	Pedoplis-Ckaro
+g6pd	*64	Harilaou
+g6pd	*65	North Dallas
+g6pd	*66	Asahikawa
+g6pd	*67	Durham
+g6pd	*68	Stonybrook
+g6pd	*69	Wayne
+g6pd	*70	Aveiro
+g6pd	*71	Cleveland Corum
+g6pd	*72	Lille
+g6pd	*73	Bangkok
+g6pd	*74	Sugao
+g6pd	*75	La Jolla
+g6pd	*76	Wexham
+g6pd	*77	Piotrkow
+g6pd	*78	Omiya
+g6pd	*79	Manhattan
+g6pd	*80	Rehevot
+g6pd	*81	Villeurbanne
+g6pd	*82	Torun
+g6pd	*83	Iwatsuki
+g6pd	*84	Serres
+g6pd	*85	Tondela
+g6pd	*86	Loma Linda
+g6pd	*87	Aachen
+g6pd	*88	Tenri
+g6pd	*89	Montpellier
+g6pd	*90	Calvo Mackenna
+g6pd	*91	Riley
+g6pd	*92	Lynwood
+g6pd	*93	Madrid
+g6pd	*94	Hartford
+g6pd	*95	Krakow
+g6pd	*96	Wisconsin
+g6pd	*97	Bari
+g6pd	*98	Covao do Lobo
+g6pd	*99	Clinic
+g6pd	*100	Utrecht
+g6pd	*101	Suwalki
+g6pd	*102	Riverside
+g6pd	*103	"Japan, Shinagawa"
+g6pd	*104	Kawasaki
+g6pd	*105	Munich
+g6pd	*106	Georgia
+g6pd	*107	Sumare
+g6pd	*108	Harima
+g6pd	*109	Figuera da Foz
+g6pd	*110	Amiens
+g6pd	*111	Bangkok Noi
+g6pd	*112	Fukaya
+g6pd	*113	Campinas
+g6pd	*114	Buenos Aires
+g6pd	*115	Arakawa
+g6pd	*116	Brighton
+g6pd	*117	Kamogawa
+g6pd	*118	Costanzo
+g6pd	*119	Amazonia
+g6pd	*120	Songklanagarind
+g6pd	*121	Hechi
+g6pd	*122	Namouru
+g6pd	*123	Bao Loc
+g6pd	*124	Crispim
+g6pd	*125	Vanua Lava
+g6pd	*126	Valladolid
+g6pd	*127	Belem
+g6pd	*128	Liuzhou
+g6pd	*129	Shenzen
+g6pd	*130	Toledo
+g6pd	*131	Naone
+g6pd	*132	Nankang
+g6pd	*133	Miaoli
+g6pd	*134	Nilgiri
+g6pd	*135	Radlowo
+g6pd	*136	Roubaix
+g6pd	*137	Haikou
+g6pd	*138	Chinese-1
+g6pd	*139	Mizushima
+g6pd	*140	Osaka
+g6pd	*141	Seoul
+g6pd	*142	Ludhiana
+g6pd	*143	Partenope
+g6pd	*144	Ierapetra
+g6pd	*145	Anadia
+g6pd	*146	Abeno
+g6pd	*147	Surabaya
+g6pd	*148	S. Antioco
+g6pd	*149	Hermoupolis
+g6pd	*150	Flores
+g6pd	*151	Sinnai
+g6pd	*152	Lages
+g6pd	*153	Gaohe
+g6pd	*154	Rignano
+g6pd	*155	Orissa
+g6pd	*156	Aures
+g6pd	*157	Kambos
+g6pd	*158	Palestrina
+g6pd	*159	Musashino
+g6pd	*160	Murcia Oristano
+g6pd	*161	Guangzhou
+g6pd	*162	Hammersmith
+g6pd	*163	Salerno Pyrgos
+g6pd	*164	"Tokyo, Fukushima"
+g6pd	*165	Malaga
+g6pd	*166	Mexico City
+g6pd	*167	Nanning
+g6pd	*168	"Seattle, Lodi, Modena, Ferrara II, Athens-like"
+g6pd	*169	Bajo Maumere
+g6pd	*170	Montalbano
+g6pd	*171	Chinese-5
+g6pd	*172	G6PDNice
+g6pd	*173	"Kamiube, Keelung"
+g6pd	*174	Neapolis
+g6pd	*175	Split
+g6pd	*176	No name
+g6pd	*177	Gidra
+g6pd	*178	Cairo
+g6pd	*179	Gond
+g6pd	*180	Dagua
+g6pd	*181	Papua
+g6pd	*182	Yunan
+g6pd	*183	Laibin
+g6pd	*184	Insuli
+g6pd	*185	Mira d'Aire
+g6pd	*186	Farroupilha
+dpyd	*1	*1
+dpyd	*2	c.1905+1G>A (*2)
+dpyd	*3	c.1898delC (*3)
+dpyd	*7	c.295_298delTCAT (*7)
+dpyd	*8	c.703C>T (*8)
+dpyd	*10	c.2983G>T (*10)
+dpyd	*12	c.1156G>T (*12)
+dpyd	*13	c.1679T>G (*13)
+dpyd	*S2	c.2846A>T
+dpyd	*S5	c.1129-5923C>G
+dpyd	*S6	c.557A>G

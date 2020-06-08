@@ -1,0 +1,44 @@
+README
+
+aou_variants.txt : A table that contains only the AoU variants of interest. (Table 1)
+starall_shared.txt : A table that contains information on the sharing of core variants between star alleles. 
+star_lookup.txt : A lookup table to convert DPYD & G6PD star alleles
+
+ReformatSGResults.py : The script that takes a sample directory and converts the Stargazer result after dephasing in to a report.
+
+ReformatSGResults_withPloidy.py [-h] --dirname DIRNAME --ploidyfile
+                                       PLOIDY [--outfile OUTFILE]
+                                       [--aouvar AOUVAR]
+                                       [--starshared STARSHARED]
+                                       [--starlook STARLOOK]
+                                       [--starfunc STARFUNC]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --dirname DIRNAME, -dir DIRNAME
+                        Sample directory name
+  --ploidyfile PLOIDY, -p PLOIDY
+                        Sample ploidy fle
+  --outfile OUTFILE, -o OUTFILE
+                        Sample report output name
+  --aouvar AOUVAR       Path to aou_variants.txt
+  --starshared STARSHARED
+                        Path to starall_shared.txt
+  --starlook STARLOOK   Path to star_lookup.txt
+  --starfunc STARFUNC   Path to star_function.txt
+
+The paths for the above tables are presently set as default to ~/ReformatSGResults/. 
+
+Example:
+python ~/ReformatSGResults/ReformatSGResults.py -dir HG00276/ --ploidyfile HG00276.grc38_wgs.ploidy.csv --outfile HG00276_report.txt
+
+Directory contains the Stargazer outputs for each of the genes. Output in HG00276_report.txt:
+	diplotype
+tpmt	*1/*1
+slco1b1	*1/*15
+nudt15	*1/*1
+cyp2c19	*1/*1
+dpyd	*1/*1
+ugt1a1	*1/*28
+g6pd	B/B
+
